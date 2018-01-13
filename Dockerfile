@@ -1,4 +1,4 @@
-FROM quay.io/vektorcloud/base:3.6
+FROM quay.io/vektorcloud/base:3.7
 
 ENV VERSION 0.14.2-r2
 
