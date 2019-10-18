@@ -10,4 +10,4 @@ bitcoin-core  | Alpine  |
 --------------|---------|
 |0.14.2       |3.6      |
 
-[circleci]: https://img.shields.io/circleci/project/github/vektorcloud/bitcoin.svg "bitcoin"
+[circleci]: https://img.shields.io/circleci/build/gh/vektorcloud/bitcoin?color=1dd6c9&logo=CircleCI&logoColor=1dd6c9&style=for-the-badge "bitcoin"
