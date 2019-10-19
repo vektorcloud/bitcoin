@@ -1,6 +1,6 @@
 # [bitcoin-core](https://bitcoincore.org) on Alpine
 
-![circleci][circleci]
+[![circleci][circleci]](https://circleci.com/gh/vektorcloud/bitcoin)
 
 [![Docker Repository on Quay](https://quay.io/repository/vektorcloud/bitcoin/status "Docker Repository on Quay")](https://quay.io/repository/vektorcloud/bitcoin)
 
